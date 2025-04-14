@@ -117,7 +117,7 @@ Experiment with these features while staying within the project guidelines.
 
 ## Authors
 
-- **Your Name** – [GitHub Profile](https://github.com/Kingl25)
+- **Loic M.** – [GitHub Profile](https://github.com/Kingl25)
 
 Special thanks to the 42 community and mentors for their support and inspiration.
 
